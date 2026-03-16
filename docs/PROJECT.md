@@ -1,5 +1,12 @@
 # **LIBRARY MANAGEMENT SYSTEM (LMS)**
 
+## **TEAM MEMBER**
+Team 1:
+- Nguyễn Thế Anh (Leader) (90/100): Vẽ chính ERD, fine tune code, viết docs, tạo slides.
+- Châm Duy Khoát (80/100): Code Procedures, Triggers, tạo slides, cùng tạo ERD.
+- Đinh Duy Khương (84/100): Data collector, code Procedures, cùng tạo ERD. 
+- Hoàng Minh Nhất (72/100): Code Triggers, cùng tạo ERD.
+
 ## **BUSINESS LOGIC CORE**
 
 * **Granular Inventory:** Tracks physical assets via BookItem (Barcode) instead of conceptual Book (ISBN).  
